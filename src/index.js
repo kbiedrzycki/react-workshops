@@ -1,3 +1,5 @@
+import './index.css';
+
 // choose proper lesson to start hacking!
 // to choose lesson simply uncomment line and save file
 
